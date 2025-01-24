@@ -1,17 +1,17 @@
-# Cinetopia.v03
+# 🎥 Cinetopia.v03
 
-## Descrição
+## 📜 Descrição
 
-Favorite os filmes mais bem indicados para você.
+Seus filmes favoritos na palma da sua mão.
 
-## Funcionalidades
+## 🌟 Funcionalidades
 
-- Pesquisa de filmes por título.
-- Exibição de detalhes do filme, incluindo sinopse, elenco, e avaliações.
-- Favoritar filmes para acesso rápido.
-- Visualização de trailers de filmes.
+- 🔍 Pesquisa de filmes por título.
+- 📝 Exibição de detalhes do filme, incluindo sinopse, elenco, e avaliações.
+- ⭐ Favoritar filmes para acesso rápido.
+- 🎞️ Visualização de trailers de filmes.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **Swift**: Linguagem principal utilizada no desenvolvimento do aplicativo.
 - **UIKit**: Framework para a construção da interface de usuário.
@@ -19,14 +19,14 @@ Favorite os filmes mais bem indicados para você.
 - **Kingfisher**: Biblioteca para download e cache de imagens.
 - **Core Data**: Framework para persistência de dados localmente.
 
-## Instalação
+## 🧩 Instalação
 
-### Pré-requisitos
+### 📋 Pré-requisitos
 
 - Xcode 12.0 ou superior
 - Swift 5.0 ou superior
 
-### Passos para instalação
+### 🚀 Passos para instalação
 
 1. Clone o repositório:
     ```sh
@@ -43,15 +43,14 @@ Favorite os filmes mais bem indicados para você.
     ```
 4. Execute o projeto no simulador ou em um dispositivo físico.
 
-## Uso
+## 📱 Uso
 
 1. Abra o aplicativo.
 2. Utilize a barra de pesquisa para encontrar filmes pelo título.
 3. Toque em um filme na lista de resultados para ver os detalhes.
 4. Adicione filmes aos favoritos para acessá-los rapidamente.
-5. Assista trailers diretamente no aplicativo.
 
-## Contribuição
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
@@ -61,12 +60,10 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 4. Faça push para a branch (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
 
-## Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-## Créditos
+## 📚 Créditos
 
-- Conheça minha inspiração: (https://cursos.alura.com.br/course/ios-viewcode-layouts-menu-inferior-uicollectionview-tabbar).
-
----
+Conheça minhya inspiração aqui: (https://cursos.alura.com.br/course/ios-viewcode-layouts-menu-inferior-uicollectionview-tabbar).
